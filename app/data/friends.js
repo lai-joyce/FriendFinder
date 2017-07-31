@@ -1,7 +1,7 @@
 var friendsList = [
 {
 	"name": "Joyce",
-	"photo": "https://cdn1.pri.org/sites/default/files/styles/story_main/public/Sunflowers.jpg?itok=N-NIcRjQ",
+	"photo": "https://cdn.instructables.com/FK2/JTQN/GAA0EJIA/FK2JTQNGAA0EJIA.MEDIUM.jpg",
 	"scores": [6,8,2,3,4,6,1,9,7,7]
 }
 ];
